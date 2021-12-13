@@ -1,4 +1,4 @@
-# This guide refers to the video tutorial referred to Ubuntu 20.04LTS with
+# This guide refers to the video tutorial on Ubuntu 20.04LTS with
 # Python3.8 natively installed
 
 # Move into your desired directory
