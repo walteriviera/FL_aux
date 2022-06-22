@@ -10,10 +10,10 @@ The tutorial will be split in 2 sessions:
 2. "Advanced session: mastering OpenFL": 3h session, required
 
 The first session will be focused on how to create the correct python environment to install the OpenFL tool, while the second will include hands-on advanced exercise. 
-Since the assumption for the advanced session is that you will have access to a working environment properly configured, you will have the fredoom to choose whether you would like to 
-install the environment by yourself or in the first hour.
+Since the assumption for the advanced session is that you will have access to a working environment properly configured, you will have the fredoom to choose whether you would like to install the environment by yourself or in the first hour.
 
 If you would like to play with the instructions on your own machine before getting to the Summer School, please follow [these](https://github.com/walteriviera/FL_aux/blob/main/create_fl_env.txt) instructions.
+
 If you can successfully run the "test_hello_federation.sh" script without error, you are welcome to join the workshop 1 hour later, ready for the Advanced session.
 
 In case you don't have time to prepare or simply prefer to wait for the Summer School, no problems: we will be happy to go through the process together.
