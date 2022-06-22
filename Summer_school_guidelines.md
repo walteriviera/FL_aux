@@ -2,6 +2,7 @@
 ## Know before you go
 
 Hi there and Welcome to this tutorial :smiley:
+
 As you might have seen on the [event agenda](https://www.neurosummerschool.org/) on the 5th of July there will be a "Federated Learning Turorial" where you will have the chance to learn about [OpenFL](https://github.com/intel/openfl). 
 
 The tutorial will be split in 2 sessions:
