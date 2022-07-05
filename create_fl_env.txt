@@ -18,7 +18,7 @@ source ${PYENV_NAME}/bin/activate
 # Get Intel OpenFL
 git clone https://github.com/intel/openfl.git
 cd openfl
-git checkout master
+git checkout develop
 pip install .
 
 # Run the test script
